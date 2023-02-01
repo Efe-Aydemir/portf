@@ -18,10 +18,6 @@
         <WcButton btitle="Quiz App" @click="golink('https://mon-quiz-app.vercel.app/')">
           Quiz App
         </WcButton>
-
-        <WcButton btitle="Admin Panel" @click="golink('https://admin-panel-two-zeta.vercel.app/#/')">
-          Basic Admin Panel
-        </WcButton>
       </div>
     </div>
   </div>
